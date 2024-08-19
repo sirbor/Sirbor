@@ -5,9 +5,9 @@
     <br />
     <a href="https://dominicbor.me" target="_blank">Portfolio Website</a>
     ·
-    <a href="https://twitter.com/KDominicBor" target="_blank">Twitter</a>
+    <a href="https://twitter.com/Sirbor_" target="_blank">Twitter</a>
     ·
-    <a href="https://linkedin.com/in/dominicbor" target="_blank">Linkedin</a>
+    <a href="https://linkedin.com/in/Sirbor" target="_blank">Linkedin</a>
   </p>
 
 Goal is to build more open source projects in Android Development and Web Application Development. Open for Collaborations. Reach out to me via twitter or Linkedin.
@@ -20,7 +20,7 @@ Goal is to build more open source projects in Android Development and Web Applic
 - Node js
 - Django
 - Next js
-- SQL
+- Postres
 - Mongo DB
 - Docker
 - Bash
@@ -34,7 +34,7 @@ Goal is to build more open source projects in Android Development and Web Applic
 - ### Bus - This is a simple Bus Reservation System programmed using Cpp. 
 
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=0xdk44bor&show_icons=true&locale=en" alt="0xdk44bor" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sirbor&show_icons=true&locale=en" alt="sirbor" /></p>
     
 
 Read my Books at  [ReadTwice](https://www.readthistwice.com/sirbor/my-reads) ❤️
