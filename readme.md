@@ -20,7 +20,7 @@ Goal is to build more open source projects in Mobile Development and Web Applica
 - Javascript
 - Typescript
 - Go
-- Srpingboot
+- Springboot
 - Spring MVC
 - Jetpack Compose
 - React
