@@ -15,18 +15,19 @@ Goal is to build more open source projects in Mobile Development and Web Applica
 
 ## ➤ Some tools that I work on
 
-- Python
+- Java
+- Kotlin
 - Javascript
 - Typescript
 - Go
+- Srpingboot
+- Spring MVC
 - React
-- Node js
-- Django
-- Postres
-- Mongo DB
+- Retrofit
+- Firebase
 - Docker
-- Bash
-- Vi/Vim
+- Kubernetes
+- Android Studio
 - AWS
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sirbor&show_icons=true&locale=en" alt="sirbor" /></p>
