@@ -23,12 +23,19 @@ Goal is to build more open source projects in Mobile Development and Web Applica
 - Springboot
 - Spring MVC
 - Jetpack Compose
-- React
+- Angular
 - Retrofit
 - Firebase
+- Postgres
 - Docker
 - Gradle
 - Maven
+- JDBC
+- Microservices
+- Openshift
+- Apache Camel
+- Mockito
+- Rx Java
 - DynamoDB
 - Jest
 - Android SDK
