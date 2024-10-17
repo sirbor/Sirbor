@@ -18,29 +18,15 @@ Goal is to build more open source projects in Mobile Development and Web Applica
 - Java
 - Kotlin
 - Javascript
-- Typescript
-- Go
 - Springboot
-- Spring MVC
 - Jetpack Compose
 - Angular
-- Retrofit
 - Firebase
 - Postgres
 - Docker
 - Gradle
-- Maven
 - JDBC
 - Microservices
-- Openshift
-- Apache Camel
-- Mockito
-- Rx Java
-- DynamoDB
-- Jest
-- Android SDK
-- Kubernetes
-- Android Studio
 - AWS
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sirbor&show_icons=true&locale=en" alt="sirbor" /></p>
