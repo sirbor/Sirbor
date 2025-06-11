@@ -22,5 +22,5 @@ I'm a software engineer passionate about building elegant solutions to complex p
 
 ## Connect
 - [GitHub](https://github.com/sirbor/quartz)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://linkedin.com/in/dominicbor)
+- [Twitter](https://twitter.com/kd_bor)

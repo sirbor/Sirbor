@@ -6,14 +6,17 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
     Component.PageTitle(),
+    Component.Spacer(),
+    Component.Search(),
+    Component.Darkmode(),
   ],
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "🐙 GitHub": "https://github.com/sirbor/quartz",
-      "💼 LinkedIn": "https://linkedin.com/in/yourusername",
-      "🐦 Twitter": "https://twitter.com/yourusername",
-      "📡 RSS": "/index.xml",
+      "GitHub": "https://github.com/sirbor",
+      "LinkedIn": "https://linkedin.com/in/dominicbor",
+      "Twitter": "https://x.com/dominicbor", 
+      "Email": "mailto:hello@dominicbor.me",
     },
   }),
 }
@@ -21,49 +24,25 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
   ],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
-      ],
-    }),
-    Component.Explorer(),
-  ],
-  right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+  left: [],
+  right: [],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ],
+  beforeBody: [
+    Component.ArticleTitle(),
+    Component.RecentNotes({
+      title: "Latest Posts",
+      limit: 8,
+      showTags: true,
+      linkToMore: false,
     }),
-    Component.Explorer(),
   ],
+  left: [],
   right: [],
 }
