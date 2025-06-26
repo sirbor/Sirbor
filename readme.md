@@ -22,13 +22,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbor&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-888%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-888%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 645.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 40 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -63,13 +65,13 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Other                    3 hrs 8 mins        █████████████████████████   99.97 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    3 hrs 8 mins        █████████████████████████   99.92 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Notes                    1 hr 19 mins        ███████████░░░░░░░░░░░░░░   42.24 % 
-iTerm2                   1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   35.95 % 
-Books                    41 mins             █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Notes                    1 hr 19 mins        ███████████░░░░░░░░░░░░░░   42.08 % 
+iTerm2                   1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   38.54 % 
+Books                    36 mins             █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
 
 🐱‍💻 Projects: 
 django-oscar             3 hrs 8 mins        █████████████████████████   100.00 % 
@@ -95,7 +97,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sirbor/sirbor/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2025 18:53:16 UTC
+ Last Updated on 26/06/2025 18:52:21 UTC
 <!--END_SECTION:waka-->
 ---
 
