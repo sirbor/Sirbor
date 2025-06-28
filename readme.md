@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbor&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-888%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-888%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,19 +63,19 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Other                    2 hrs 13 mins       █████████████████████████   99.89 % 
+Other                    2 hrs 11 mins       █████████████████████████   99.89 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-iTerm2                   1 hr 2 mins         ████████████░░░░░░░░░░░░░   46.87 % 
-Notes                    58 mins             ███████████░░░░░░░░░░░░░░   43.55 % 
-Books                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+iTerm2                   1 hr                ████████████░░░░░░░░░░░░░   46.06 % 
+Notes                    58 mins             ███████████░░░░░░░░░░░░░░   44.22 % 
+Books                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
 
 🐱‍💻 Projects: 
-django-oscar             2 hrs 13 mins       █████████████████████████   100.00 % 
+django-oscar             2 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -95,7 +95,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sirbor/sirbor/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2025 18:51:51 UTC
+ Last Updated on 28/06/2025 18:50:10 UTC
 <!--END_SECTION:waka-->
 ---
 
