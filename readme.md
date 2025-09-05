@@ -22,15 +22,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbor&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-947%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-947%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 644.4 kB Used in GitHub's Storage 
- > 
-> 🏆 57 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -65,16 +63,16 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Other                    7 mins              █████████████████████████   100.00 % 
+Other                    25 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-iTerm2                   7 mins              █████████████████████████   100.00 % 
+Safari                   25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OkoaLoan                 7 mins              █████████████████████████   100.00 % 
+OkoaLoan                 25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+Mac                      25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -94,7 +92,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sirbor/sirbor/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2025 18:48:31 UTC
+ Last Updated on 05/09/2025 18:47:12 UTC
 <!--END_SECTION:waka-->
 ---
 
