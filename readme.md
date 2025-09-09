@@ -22,15 +22,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbor&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-948%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-949%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 644.4 kB Used in GitHub's Storage 
- > 
-> 🏆 57 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -65,18 +63,20 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Other                    44 mins             ██████████████████████░░░   87.85 % 
-Kotlin                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Kotlin                   1 hr 36 mins        █████████████████░░░░░░░░   67.61 % 
+Other                    46 mins             ████████░░░░░░░░░░░░░░░░░   32.39 % 
 
 🔥 Editors: 
-Safari                   50 mins             █████████████████████████   100.00 % 
+Safari                   2 hrs 20 mins       █████████████████████████   99.05 % 
+iTerm2                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🐱‍💻 Projects: 
-OkoaLoan                 44 mins             ██████████████████████░░░   87.85 % 
-LearnCProgramming        6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Rental-house-management-s1 hr 31 mins        ████████████████░░░░░░░░░   64.20 % 
+OkoaLoan                 44 mins             ████████░░░░░░░░░░░░░░░░░   31.45 % 
+LearnCProgramming        6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 💻 Operating System: 
-Mac                      50 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -96,7 +96,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sirbor/sirbor/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2025 18:48:52 UTC
+ Last Updated on 09/09/2025 18:46:17 UTC
 <!--END_SECTION:waka-->
 ---
 
