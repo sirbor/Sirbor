@@ -22,9 +22,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbor&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-967%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -38,6 +38,48 @@
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+🌆 Daytime                55 commits          ███████████░░░░░░░░░░░░░░   42.97 % 
+🌃 Evening                66 commits          █████████████░░░░░░░░░░░░   51.56 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   34 commits          ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+Tuesday                  22 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Wednesday                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Friday                   26 commits          █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Saturday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Sunday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Nairobi
+
+💬 Programming Languages: 
+Other                    4 hrs 30 mins       ██████████████████████░░░   86.83 % 
+C                        41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+
+🔥 Editors: 
+Safari                   5 hrs               ████████████████████████░   96.53 % 
+iTerm2                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+
+🐱‍💻 Projects: 
+simple_shell             4 hrs 42 mins       ███████████████████████░░   90.57 % 
+LearnCProgramming        29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+
+💻 Operating System: 
+Mac                      5 hrs 11 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -55,7 +97,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sirbor/sirbor/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2025 18:45:02 UTC
+ Last Updated on 05/10/2025 18:45:20 UTC
 <!--END_SECTION:waka-->
 ---
 
