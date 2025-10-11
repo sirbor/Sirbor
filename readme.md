@@ -65,16 +65,16 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Other                    12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Safari                   12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-simple_shell             12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -94,7 +94,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sirbor/sirbor/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2025 18:48:58 UTC
+ Last Updated on 11/10/2025 18:43:36 UTC
 <!--END_SECTION:waka-->
 ---
 
