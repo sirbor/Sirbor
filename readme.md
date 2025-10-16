@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbor&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-970%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-970%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,16 +65,16 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-C                        1 hr 15 mins        █████████████████████████   100.00 % 
+C                        2 hrs 1 min         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Safari                   1 hr 15 mins        █████████████████████████   100.00 % 
+Safari                   2 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Job-Mtaani-Freelance-Job-1 hr 15 mins        █████████████████████████   100.00 % 
+Job-Mtaani-Freelance-Job-2 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -94,7 +94,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sirbor/sirbor/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2025 18:50:22 UTC
+ Last Updated on 16/10/2025 18:51:02 UTC
 <!--END_SECTION:waka-->
 ---
 
