@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbor&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-975%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,16 +65,22 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    33 mins             ████████████████████░░░░░   80.00 % 
+Kotlin                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+C                        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Safari                   35 mins             █████████████████████░░░░   84.47 % 
+Android Studio           6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+iTerm2                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Job-Mtaani-Freelance-Job-29 mins             ██████████████████░░░░░░░   70.40 % 
+OkoaLoan                 6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+alx-low_level_programming6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -94,7 +100,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sirbor/sirbor/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2025 18:50:20 UTC
+ Last Updated on 11/11/2025 18:51:36 UTC
 <!--END_SECTION:waka-->
 ---
 
