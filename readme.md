@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbor&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-991%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,18 +65,21 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+Other                    2 hrs 13 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Books                    2 mins              ████████████████████░░░░░   80.86 % 
-iTerm2                   0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Google Calendar          1 hr 45 mins        ████████████████████░░░░░   78.78 % 
+Safari                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Books                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+iTerm2                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🐱‍💻 Projects: 
-100 Days of Code - The Co2 mins              ████████████████████░░░░░   80.86 % 
-device                   0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Unknown Project          1 hr 45 mins        ████████████████████░░░░░   78.78 % 
+100 Days of Code - The Co28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Unknown OS               1 hr 45 mins        ████████████████████░░░░░   78.78 % 
+Mac                      28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
 ```
 
 **I Mostly Code in C** 
@@ -96,7 +99,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sirbor/sirbor/main/assets/bar_graph.png)
 
 
- Last Updated on 02/12/2025 18:57:15 UTC
+ Last Updated on 03/12/2025 18:55:38 UTC
 <!--END_SECTION:waka-->
 ---
 
