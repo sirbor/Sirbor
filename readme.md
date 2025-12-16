@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbor&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C013%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C013%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,20 +65,19 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Other                    8 hrs 56 mins       ██████████████████████░░░   87.02 % 
-Objective-C              1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Other                    4 hrs 50 mins       ████████████████████████░   95.61 % 
+Objective-C              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 🔥 Editors: 
-Safari                   10 hrs 15 mins      █████████████████████████   99.95 % 
-Zoom                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Safari                   5 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Commandline_Calculator   6 hrs 19 mins       ███████████████░░░░░░░░░░   61.65 % 
-oss-ai-summit?tab=readme-3 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.39 % 
-oss-ai-summit            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+oss-ai-summit?tab=readme-3 hrs 58 mins       ████████████████████░░░░░   78.47 % 
+Commandline_Calculator   59 mins             █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+oss-ai-summit            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 💻 Operating System: 
-Mac                      10 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      5 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -98,7 +97,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sirbor/sirbor/main/assets/bar_graph.png)
 
 
- Last Updated on 15/12/2025 18:56:56 UTC
+ Last Updated on 16/12/2025 18:56:25 UTC
 <!--END_SECTION:waka-->
 ---
 
