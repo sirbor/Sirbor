@@ -22,13 +22,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbor&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C136%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 644.5 kB Used in GitHub's Storage 
+> 📦 644.4 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -65,16 +65,21 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Other                    49 mins             █████████████████████████   100.00 % 
+Other                    3 hrs 13 mins       ████████████████████░░░░░   79.47 % 
+Kotlin                   49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Safari                   49 mins             █████████████████████████   100.00 % 
+Safari                   4 hrs               █████████████████████████   99.13 % 
+iTerm2                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🐱‍💻 Projects: 
-OkoaLoan                 49 mins             █████████████████████████   100.00 % 
+OkoaLoan                 3 hrs 11 mins       ████████████████████░░░░░   78.66 % 
+oauth                    26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+LearnCProgramming        25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 
 💻 Operating System: 
-Mac                      49 mins             █████████████████████████   100.00 % 
+Mac                      4 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -94,7 +99,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sirbor/sirbor/main/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2026 19:11:11 UTC
+ Last Updated on 30/01/2026 19:09:05 UTC
 <!--END_SECTION:waka-->
 ---
 
