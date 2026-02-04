@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbor&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C136%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C137%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -65,21 +65,21 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Other                    3 hrs 13 mins       ███████████████░░░░░░░░░░   59.61 % 
-Kotlin                   2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.35 % 
+Other                    3 hrs 3 mins        ███████████████░░░░░░░░░░   58.35 % 
+Kotlin                   2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   41.61 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Safari                   5 hrs 21 mins       █████████████████████████   99.35 % 
-iTerm2                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Safari                   5 hrs 11 mins       █████████████████████████   99.32 % 
+iTerm2                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🐱‍💻 Projects: 
-OkoaLoan                 3 hrs 11 mins       ███████████████░░░░░░░░░░   59.00 % 
-oauth                    1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   33.26 % 
-LearnCProgramming        25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+OkoaLoan                 3 hrs 1 min         ██████████████░░░░░░░░░░░   57.71 % 
+oauth                    1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   34.30 % 
+LearnCProgramming        25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 💻 Operating System: 
-Mac                      5 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -99,7 +99,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sirbor/sirbor/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2026 19:27:42 UTC
+ Last Updated on 04/02/2026 19:25:01 UTC
 <!--END_SECTION:waka-->
 ---
 
