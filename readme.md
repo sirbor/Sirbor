@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbor&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C220%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C229%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -69,16 +69,17 @@ Other                    45 hrs              ███████████�
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Google Calendar          44 hrs 51 mins      █████████████████████████   99.65 % 
-iTerm2                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Google Calendar          44 hrs 1 min        ████████████████████████░   97.80 % 
+Zoom                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+iTerm2                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🐱‍💻 Projects: 
-Unknown Project          44 hrs 51 mins      █████████████████████████   99.65 % 
-openclaw                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Unknown Project          44 hrs 1 min        ████████████████████████░   97.80 % 
+openclaw                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 💻 Operating System: 
-Unknown OS               44 hrs 51 mins      █████████████████████████   99.65 % 
-Mac                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Unknown OS               44 hrs 1 min        ████████████████████████░   97.80 % 
+Mac                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 
 **I Mostly Code in C** 
@@ -98,7 +99,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sirbor/sirbor/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2026 19:32:02 UTC
+ Last Updated on 25/02/2026 19:33:58 UTC
 <!--END_SECTION:waka-->
 ---
 
