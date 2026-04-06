@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Bor&#039;s Blog</title>
+      <link>https://dominicbor.com</link>
+      <description>Last 10 notes on Bor&#039;s Blog</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Commandline Calculator</title>
+    <link>https://dominicbor.com/projects/Commandline_Calculator</link>
+    <guid>https://dominicbor.com/projects/Commandline_Calculator</guid>
+    <description>A high-performance command-line calculator built with Rust, supporting complex mathematical expressions and unit conversions.</description>
+    <pubDate>Sat, 04 Apr 2026 15:38:51 GMT</pubDate>
+  </item><item>
+    <title>Dukani</title>
+    <link>https://dominicbor.com/projects/Dukani</link>
+    <guid>https://dominicbor.com/projects/Dukani</guid>
+    <description>An e-commerce platform prototype focused on providing local businesses with easy-to-use digital tools for sales and inventory tracking.</description>
+    <pubDate>Sat, 04 Apr 2026 15:38:51 GMT</pubDate>
+  </item><item>
+    <title>Jikoni</title>
+    <link>https://dominicbor.com/projects/Jikoni</link>
+    <guid>https://dominicbor.com/projects/Jikoni</guid>
+    <description>A kitchen management application that helps track inventory, suggest recipes based on available ingredients, and manage shopping lists.</description>
+    <pubDate>Sat, 04 Apr 2026 15:38:51 GMT</pubDate>
+  </item><item>
+    <title>Sirbor</title>
+    <link>https://dominicbor.com/projects/Sirbor</link>
+    <guid>https://dominicbor.com/projects/Sirbor</guid>
+    <description>The codebase for this very blog! Built using Quartz and customized to reflect my journey and interest in technology.</description>
+    <pubDate>Sat, 04 Apr 2026 15:38:51 GMT</pubDate>
+  </item><item>
+    <title>TodoApp</title>
+    <link>https://dominicbor.com/projects/TodoApp</link>
+    <guid>https://dominicbor.com/projects/TodoApp</guid>
+    <description>A minimalistic yet powerful todo application with focus on productivity, offline-first capabilities, and cross-device sync.</description>
+    <pubDate>Sat, 04 Apr 2026 15:38:51 GMT</pubDate>
+  </item><item>
+    <title>iFogSim</title>
+    <link>https://dominicbor.com/projects/iFogSim</link>
+    <guid>https://dominicbor.com/projects/iFogSim</guid>
+    <description>A simulation framework for Fog computing environments, allowing for the modeling of IoT networks and edge-to-cloud data flows.</description>
+    <pubDate>Sat, 04 Apr 2026 15:38:51 GMT</pubDate>
+  </item><item>
+    <title>Agentic Workflows</title>
+    <link>https://dominicbor.com/notes/agentic-workflows</link>
+    <guid>https://dominicbor.com/notes/agentic-workflows</guid>
+    <description>Discussion on common patterns in AI agents: ReAct (Reasoning and Acting), Reflection, and Planning. How to build more autonomous systems.</description>
+    <pubDate>Sat, 04 Apr 2026 15:38:32 GMT</pubDate>
+  </item><item>
+    <title>Data Lakehouse Architecture</title>
+    <link>https://dominicbor.com/notes/data-lakehouse</link>
+    <guid>https://dominicbor.com/notes/data-lakehouse</guid>
+    <description>The evolution from Data Warehouses and Data Lakes to Lakehouses (Delta Lake, Iceberg). ACID transactions on the lake.</description>
+    <pubDate>Sat, 04 Apr 2026 15:38:32 GMT</pubDate>
+  </item><item>
+    <title>dbt Best Practices</title>
+    <link>https://dominicbor.com/notes/dbt-best-practices</link>
+    <guid>https://dominicbor.com/notes/dbt-best-practices</guid>
+    <description>Best practices for organizing dbt models, using macros, and ensuring data quality through tests and documentation.</description>
+    <pubDate>Sat, 04 Apr 2026 15:38:32 GMT</pubDate>
+  </item><item>
+    <title>Role of Feature Stores</title>
+    <link>https://dominicbor.com/notes/feature-stores</link>
+    <guid>https://dominicbor.com/notes/feature-stores</guid>
+    <description>How feature stores like Feast and Tecton simplify the path from data engineering to model training and serving in production.</description>
+    <pubDate>Sat, 04 Apr 2026 15:38:32 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
